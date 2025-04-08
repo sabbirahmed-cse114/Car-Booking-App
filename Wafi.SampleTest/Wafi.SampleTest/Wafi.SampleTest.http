@@ -1,0 +1,39 @@
+@Wafi.SampleTest_HostAddress = http://localhost:5028
+
+GET {{Wafi.SampleTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET http://localhost:5028/api/Bookings/Booking
+Content-Type: application/json
+
+{
+  "CarId": "6707A0D2-E633-47AB-A060-43254D014881",
+  "StartBookingDate": "2025-02-01",
+  "EndBookingDate": "2025-03-31"
+}
+
+###
+
+POST http://localhost:5028/api/Bookings/Booking
+Content-Type: application/json
+
+{
+  "BookingDate": "2025-02-11",
+  "StartTime": "07:30:00",
+  "EndTime": "09:20:00",
+  "RepeatOption": 3,
+  "EndRepeatDate": "2025-02-28",
+  "DaysToRepeatOn": 12,
+  "CarId": "6707A0D2-E633-47AB-A060-43254D014881"
+}
+
+###
+
+GET http://localhost:5028/api/Bookings/SeedData
+
+### 4D27CDE0-834C-4B63-8841-1EB47D0B09D4
+### E1B9E0F6-7AFA-4257-B723-3BDD28B49A4A
+
+
