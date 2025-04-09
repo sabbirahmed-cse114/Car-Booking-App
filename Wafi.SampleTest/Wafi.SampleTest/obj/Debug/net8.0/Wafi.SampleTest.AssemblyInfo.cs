@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wafi.SampleTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eace1750e818416232e016c2ccf156a4fdb2491b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wafi.SampleTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wafi.SampleTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

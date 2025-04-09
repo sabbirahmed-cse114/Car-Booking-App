@@ -5061,11 +5061,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sabbi\\Desktop\\Wafi.SampleTest\\Wafi.SampleTest\\Wafi.SampleTest.csproj",
+      "projectUniqueName": "C:\\Users\\sabbi\\Desktop\\Car-Booking-App\\Wafi.SampleTest\\Wafi.SampleTest\\Wafi.SampleTest.csproj",
       "projectName": "Wafi.SampleTest",
-      "projectPath": "C:\\Users\\sabbi\\Desktop\\Wafi.SampleTest\\Wafi.SampleTest\\Wafi.SampleTest.csproj",
+      "projectPath": "C:\\Users\\sabbi\\Desktop\\Car-Booking-App\\Wafi.SampleTest\\Wafi.SampleTest\\Wafi.SampleTest.csproj",
       "packagesPath": "C:\\Users\\sabbi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sabbi\\Desktop\\Wafi.SampleTest\\Wafi.SampleTest\\obj\\",
+      "outputPath": "C:\\Users\\sabbi\\Desktop\\Car-Booking-App\\Wafi.SampleTest\\Wafi.SampleTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

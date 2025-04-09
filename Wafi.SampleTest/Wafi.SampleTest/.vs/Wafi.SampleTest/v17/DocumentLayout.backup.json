@@ -1,7 +1,11 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sabbi\\Desktop\\Wafi.SampleTest\\Wafi.SampleTest\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\sabbi\\Desktop\\Car-Booking-App\\Wafi.SampleTest\\Wafi.SampleTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73F6356D-C6F5-4736-B1EC-312DDDE7D9C5}|..\\Wafi.SampleTest.UnitTest\\Wafi.SampleTest.UnitTest.csproj|c:\\users\\sabbi\\desktop\\car-booking-app\\wafi.sampletest\\wafi.sampletest.unittest\\bookingutilitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +13,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingUtilityTests.cs",
+              "DocumentMoniker": "C:\\Users\\sabbi\\Desktop\\Car-Booking-App\\Wafi.SampleTest\\Wafi.SampleTest.UnitTest\\BookingUtilityTests.cs",
+              "RelativeDocumentMoniker": "..\\Wafi.SampleTest.UnitTest\\BookingUtilityTests.cs",
+              "ToolTip": "C:\\Users\\sabbi\\Desktop\\Car-Booking-App\\Wafi.SampleTest\\Wafi.SampleTest.UnitTest\\BookingUtilityTests.cs",
+              "RelativeToolTip": "..\\Wafi.SampleTest.UnitTest\\BookingUtilityTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:10:55.394Z",
+              "EditorCaption": ""
             }
           ]
         }
